@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[StoryItr8 Owners Blog]]></title>
+  <link href="http://bobcook.github.com/atom.xml" rel="self"/>
+  <link href="http://bobcook.github.com/"/>
+  <updated>2012-04-23T21:47:33-06:00</updated>
+  <id>http://bobcook.github.com/</id>
+  <author>
+    <name><![CDATA[Bob Cook]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[New Post]]></title>
+    <link href="http://bobcook.github.com/blog/2012/04/23/new-post/"/>
+    <updated>2012-04-23T17:08:00-06:00</updated>
+    <id>http://bobcook.github.com/blog/2012/04/23/new-post</id>
+    <content type="html"><![CDATA[<p>Here is some text.</p>
+]]></content>
+  </entry>
+  
+</feed>
