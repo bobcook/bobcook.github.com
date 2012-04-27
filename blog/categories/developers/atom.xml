@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[StoryItr8 Owners Blog]]></title>
-  <link href="http://ownblog.storyitr8.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Developers | StoryItr8 Owners Blog]]></title>
+  <link href="http://ownblog.storyitr8.com/blog/categories/developers/atom.xml" rel="self"/>
   <link href="http://ownblog.storyitr8.com/"/>
   <updated>2012-04-27T15:56:01-06:00</updated>
   <id>http://ownblog.storyitr8.com/</id>
@@ -18,9 +18,9 @@
     <link href="http://ownblog.storyitr8.com/blog/2012/04/27/open-source-is-not-sustainable-and-what-we-can-do-to-fix-it/"/>
     <updated>2012-04-27T15:43:00-06:00</updated>
     <id>http://ownblog.storyitr8.com/blog/2012/04/27/open-source-is-not-sustainable-and-what-we-can-do-to-fix-it</id>
-    <content type="html"><![CDATA[<p><em>You have no right to expect me to send you back to Kansas unless you do something for me in return. In this country everyone must pay for everything he gets. If you wish me to use my magic power to send you home again you must do something for me first. Help me and I will help you.&#8221; <br/>
-&#8220;What must I do?&#8221; asked the girl. <br/>
-&#8220;Kill the Wicked Witch of the West,&#8221; answered Oz.  -L. Frank Baum – The Wizard of Oz</em></p>
+    <content type="html"><![CDATA[<p><em>You have no right to expect me to send you back to Kansas unless you do something for me in return. In this country everyone must pay for everything he gets. If you wish me to use my magic power to send you home again you must do something for me first. Help me and I will help you." <br/>
+"What must I do?" asked the girl. <br/>
+"Kill the Wicked Witch of the West," answered Oz.  -L. Frank Baum – The Wizard of Oz</em></p>
 
 <p>Not too many years ago the music industry found itself in trouble.  No one wanted to buy music on traditional media. Industry executives were convinced that the fault lies with the evil Internet where music was exchanged for free.
 Steve Jobs created a marketplace.  It turns out that people DO want to pay for music, as long as you make it convenient.</p>
