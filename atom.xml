@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[StoryItr8 Owners Blog]]></title>
-  <link href="http://ownblog.storyitr8.com/atom.xml" rel="self"/>
-  <link href="http://ownblog.storyitr8.com/"/>
-  <updated>2012-04-27T15:56:01-06:00</updated>
-  <id>http://ownblog.storyitr8.com/</id>
+  <link href="http://bobcook.github.com/atom.xml" rel="self"/>
+  <link href="http://bobcook.github.com/"/>
+  <updated>2012-04-30T17:01:53-06:00</updated>
+  <id>http://bobcook.github.com/</id>
   <author>
     <name><![CDATA[Bob Cook]]></name>
     <email><![CDATA[info@sunrem.com]]></email>
@@ -14,10 +14,27 @@
 
   
   <entry>
+    <title type="html"><![CDATA[How Much Do I Need to Spend On My Website?]]></title>
+    <link href="http://bobcook.github.com/blog/2012/04/30/how-much-do-i-need-to-spend-on-my-website/"/>
+    <updated>2012-04-30T16:23:00-06:00</updated>
+    <id>http://bobcook.github.com/blog/2012/04/30/how-much-do-i-need-to-spend-on-my-website</id>
+    <content type="html"><![CDATA[<p>Your least expensive option is to use Open Source software.  Why pay someone to write what has already been written?  <br/>
+When I talk with business owners about how to create and maintain a website most say, “I know a guy…”.  Lets price that out.  If you hire someone cheap you would have to pay at least $30,000 a year to get anyone who knows what he or she are doing.  Add taxes and benefits on top of that.  After a year what will you have to show for it?</p>
+
+<p>Using Open Source software and Story Driven Development your money could go a lot farther.  You could have a working site much quicker and you are not dependent on one person so you can be selective on who has the fastest/best solution.  You specify a story of the features you need.  You only pay for one iteration and the time needed for training is built in to the price.  After the iteration the clock stops.  You are free to see the results and think of new features you need.  Post another story of those new features to start a new cycle or stop anytime.</p>
+
+<p>Building a website is not like building anything physical.  It’s software.  You don’t really need a blueprint.  Yes, you do need to know where you want it to go.  But instead work on just one feature at time and think about how each feature serves a business purpose.  Pay only for the minimum features to fill your need then turn off the expense by waiting for the next required feature.</p>
+
+<p>Because you are using Open Source software and Story Driven Development it doesn’t matter who is going to do the next iteration.  The next developer can just run the tests and add the next feature you requested.  <br/>
+Turn off the fixed expense of your website and use Storyiter8.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Open Source is Not Sustainable and What We Can Do to Fix It.]]></title>
-    <link href="http://ownblog.storyitr8.com/blog/2012/04/27/open-source-is-not-sustainable-and-what-we-can-do-to-fix-it/"/>
+    <link href="http://bobcook.github.com/blog/2012/04/27/open-source-is-not-sustainable-and-what-we-can-do-to-fix-it/"/>
     <updated>2012-04-27T15:43:00-06:00</updated>
-    <id>http://ownblog.storyitr8.com/blog/2012/04/27/open-source-is-not-sustainable-and-what-we-can-do-to-fix-it</id>
+    <id>http://bobcook.github.com/blog/2012/04/27/open-source-is-not-sustainable-and-what-we-can-do-to-fix-it</id>
     <content type="html"><![CDATA[<p><em>You have no right to expect me to send you back to Kansas unless you do something for me in return. In this country everyone must pay for everything he gets. If you wish me to use my magic power to send you home again you must do something for me first. Help me and I will help you.&#8221; <br/>
 &#8220;What must I do?&#8221; asked the girl. <br/>
 &#8220;Kill the Wicked Witch of the West,&#8221; answered Oz.  -L. Frank Baum – The Wizard of Oz</em></p>

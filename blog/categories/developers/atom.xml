@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Developers | StoryItr8 Owners Blog]]></title>
-  <link href="http://ownblog.storyitr8.com/blog/categories/developers/atom.xml" rel="self"/>
-  <link href="http://ownblog.storyitr8.com/"/>
-  <updated>2012-04-27T15:56:01-06:00</updated>
-  <id>http://ownblog.storyitr8.com/</id>
+  <title><![CDATA[Category: OwnersDevelopers | StoryItr8 Owners Blog]]></title>
+  <link href="http://bobcook.github.com/blog/categories/developers/atom.xml" rel="self"/>
+  <link href="http://bobcook.github.com/"/>
+  <updated>2012-04-30T17:01:53-06:00</updated>
+  <id>http://bobcook.github.com/</id>
   <author>
     <name><![CDATA[Bob Cook]]></name>
     <email><![CDATA[info@sunrem.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Open Source is Not Sustainable and What We Can Do to Fix It.]]></title>
-    <link href="http://ownblog.storyitr8.com/blog/2012/04/27/open-source-is-not-sustainable-and-what-we-can-do-to-fix-it/"/>
+    <link href="http://bobcook.github.com/blog/2012/04/27/open-source-is-not-sustainable-and-what-we-can-do-to-fix-it/"/>
     <updated>2012-04-27T15:43:00-06:00</updated>
-    <id>http://ownblog.storyitr8.com/blog/2012/04/27/open-source-is-not-sustainable-and-what-we-can-do-to-fix-it</id>
+    <id>http://bobcook.github.com/blog/2012/04/27/open-source-is-not-sustainable-and-what-we-can-do-to-fix-it</id>
     <content type="html"><![CDATA[<p><em>You have no right to expect me to send you back to Kansas unless you do something for me in return. In this country everyone must pay for everything he gets. If you wish me to use my magic power to send you home again you must do something for me first. Help me and I will help you." <br/>
 "What must I do?" asked the girl. <br/>
 "Kill the Wicked Witch of the West," answered Oz.  -L. Frank Baum – The Wizard of Oz</em></p>

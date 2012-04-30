@@ -2,16 +2,22 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>
-            http://ownblog.storyitr8.com/blog/2012/04/27/open-source-is-not-sustainable-and-what-we-can-do-to-fix-it/
+            http://bobcook.github.com/blog/2012/04/27/open-source-is-not-sustainable-and-what-we-can-do-to-fix-it/
         </loc>
         <lastmod>2012-04-27T15:55:44-06:00</lastmod>
     </url>
     <url>
-        <loc>http://ownblog.storyitr8.com/blog/archives/</loc>
-        <lastmod>2012-04-27T15:55:44-06:00</lastmod>
+        <loc>
+            http://bobcook.github.com/blog/2012/04/30/how-much-do-i-need-to-spend-on-my-website/
+        </loc>
+        <lastmod>2012-04-30T16:27:39-06:00</lastmod>
     </url>
     <url>
-        <loc>http://ownblog.storyitr8.com/</loc>
-        <lastmod>2012-04-27T15:55:44-06:00</lastmod>
+        <loc>http://bobcook.github.com/blog/archives/</loc>
+        <lastmod>2012-04-30T16:27:39-06:00</lastmod>
+    </url>
+    <url>
+        <loc>http://bobcook.github.com/</loc>
+        <lastmod>2012-04-30T16:27:39-06:00</lastmod>
     </url>
 </urlset>
