@@ -4,7 +4,7 @@
   <title><![CDATA[Category: OwnersOwners | StoryItr8 Blog]]></title>
   <link href="http://bobcook.github.com/blog/categories/owners/atom.xml" rel="self"/>
   <link href="http://bobcook.github.com/"/>
-  <updated>2012-04-30T17:16:10-06:00</updated>
+  <updated>2012-05-17T16:18:26-06:00</updated>
   <id>http://bobcook.github.com/</id>
   <author>
     <name><![CDATA[Bob Cook]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Your Website Can Be Produced Easier and Cheaper Then You Thought]]></title>
+    <link href="http://bobcook.github.com/blog/2012/05/17/your-website-can-be-produced-easier-and-cheaper-then-you-thought/"/>
+    <updated>2012-05-17T16:09:00-06:00</updated>
+    <id>http://bobcook.github.com/blog/2012/05/17/your-website-can-be-produced-easier-and-cheaper-then-you-thought</id>
+    <content type="html"><![CDATA[<h3>Unless you are made of money you cannot afford to write software that has already been written.</h3>
+
+<p>Let's look at something as simple as a user logging into a website.  It seems like a simple process but what if you want to verify that the user is a real person?  You could send a message to her email address and have her click a link to verify that she is a real person.  That takes much more programming.  Expect that the user will want to change their password one day.  What if you want to let the user assume different roles?  You might have some administrators and allow employees to process information that you don't want other users to have access to.  All of these features require more programming.</p>
+
+<p>The open source world has already dealt with these issues and they have many versions of software written to add to projects saving you time, expense, testing and dreaming up features of the software you need.  You could suppose that 80% of the software you need for your website is already written.  That means that the time and dollars you thought you needed is really much less.</p>
+
+<p>We have completed e-commerce websites for as little as $3,000.00.</p>
+
+<h3>There is open source software for authorization, database management, e-commerce, payment processing, content management, blogging, forums and most anything you can think of.</h3>
+
+<p>You don't know everything that is already out there.  That is where Storyitr8 comes in.  You post a feature that you are looking for, a story such as, "As a user I would like to log in so that I can have access to my account".  We turn that story into a test then a developer will write software that will pass that test.  We send that test to thousands of developers that know how to handle the request and know what resources are available.  They place a bid based on the work they think it will require.  You accept the best bid.  You should save a lot of money.  The alternative is to hire someone to research the solution, then pay them to learn how it works, then pay to have it implemented.  After all that you still might not have tested code.</p>
+
+<p>Storyitr8 is a way to match your needs with the open source community.  You iterate one story at a time to get your website up quickly and inexpensively.  Start with the essence of what you need and put it online for your customers to use.  Add future iterations to improve your website when it makes business sense to do so.  You pay only for the iteration so you can stop at anytime and keep using your website.</p>
+
+<p>That puts you in control of your website.  You can focus on business purposes and focus on the minimum investment that fills your needs.</p>
+
+<p>I encourage you to start your Storyitr8 website.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[How Much Do I Need to Spend On My Website?]]></title>
